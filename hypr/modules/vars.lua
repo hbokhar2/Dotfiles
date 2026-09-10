@@ -1,6 +1,6 @@
 return {
 	terminal     = "kitty",
-	fileManager  = "thunar",
+	fileManager  = "nautilus",
 	menu         = "fuzzel",
 	audioControl = "pavucontrol",
 	calculator   = "qalculate-gtk",
